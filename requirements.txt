@@ -1,5 +1,5 @@
 streamlit
 onnxruntime
-huggingface_hub
 pandas
 numpy
+huggingface_hub
