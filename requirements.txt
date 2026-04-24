@@ -1,5 +1,5 @@
 streamlit
-tensorflow-cpu
+tensorflow
 huggingface_hub
 numpy
 pandas
